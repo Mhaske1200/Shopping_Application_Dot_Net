@@ -1,0 +1,48 @@
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/bin/Debug/net7.0/BOL.deps.json
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/bin/Debug/net7.0/BOL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/bin/Debug/net7.0/BOL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/obj/Debug/net7.0/BOL.csproj.AssemblyReference.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/obj/Debug/net7.0/BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/obj/Debug/net7.0/BOL.AssemblyInfoInputs.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/obj/Debug/net7.0/BOL.AssemblyInfo.cs
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/obj/Debug/net7.0/BOL.csproj.CoreCompileInputs.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/obj/Debug/net7.0/BOL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/obj/Debug/net7.0/refint/BOL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/obj/Debug/net7.0/BOL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BOL/obj/Debug/net7.0/ref/BOL.dll
+/home/utkarsh/CDAC/DotNet/eStore/BOL/bin/Debug/net7.0/BOL.deps.json
+/home/utkarsh/CDAC/DotNet/eStore/BOL/bin/Debug/net7.0/BOL.dll
+/home/utkarsh/CDAC/DotNet/eStore/BOL/bin/Debug/net7.0/BOL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/BOL/obj/Debug/net7.0/BOL.csproj.AssemblyReference.cache
+/home/utkarsh/CDAC/DotNet/eStore/BOL/obj/Debug/net7.0/BOL.GeneratedMSBuildEditorConfig.editorconfig
+/home/utkarsh/CDAC/DotNet/eStore/BOL/obj/Debug/net7.0/BOL.AssemblyInfoInputs.cache
+/home/utkarsh/CDAC/DotNet/eStore/BOL/obj/Debug/net7.0/BOL.AssemblyInfo.cs
+/home/utkarsh/CDAC/DotNet/eStore/BOL/obj/Debug/net7.0/BOL.csproj.CoreCompileInputs.cache
+/home/utkarsh/CDAC/DotNet/eStore/BOL/obj/Debug/net7.0/BOL.dll
+/home/utkarsh/CDAC/DotNet/eStore/BOL/obj/Debug/net7.0/refint/BOL.dll
+/home/utkarsh/CDAC/DotNet/eStore/BOL/obj/Debug/net7.0/BOL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/BOL/obj/Debug/net7.0/ref/BOL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\bin\Debug\net7.0\BOL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\bin\Debug\net7.0\BOL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\obj\Debug\net7.0\BOL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\obj\Debug\net7.0\BOL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BOL\obj\Debug\net7.0\ref\BOL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\bin\Debug\net7.0\BOL.deps.json
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\bin\Debug\net7.0\BOL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\bin\Debug\net7.0\BOL.pdb
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\obj\Debug\net7.0\BOL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\obj\Debug\net7.0\refint\BOL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\obj\Debug\net7.0\BOL.pdb
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BOL\obj\Debug\net7.0\ref\BOL.dll

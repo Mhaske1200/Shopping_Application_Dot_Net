@@ -1,0 +1,60 @@
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/bin/Debug/net7.0/DAL.deps.json
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/bin/Debug/net7.0/DAL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/bin/Debug/net7.0/DAL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/bin/Debug/net7.0/BOL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/bin/Debug/net7.0/BOL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/obj/Debug/net7.0/DAL.csproj.AssemblyReference.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/obj/Debug/net7.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/obj/Debug/net7.0/DAL.AssemblyInfoInputs.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/obj/Debug/net7.0/DAL.AssemblyInfo.cs
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/obj/Debug/net7.0/DAL.csproj.CoreCompileInputs.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/obj/Debug/net7.0/DAL.csproj.CopyComplete
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/obj/Debug/net7.0/DAL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/obj/Debug/net7.0/refint/DAL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/obj/Debug/net7.0/DAL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/DAL/obj/Debug/net7.0/ref/DAL.dll
+/home/utkarsh/CDAC/DotNet/eStore/DAL/bin/Debug/net7.0/DAL.deps.json
+/home/utkarsh/CDAC/DotNet/eStore/DAL/bin/Debug/net7.0/DAL.dll
+/home/utkarsh/CDAC/DotNet/eStore/DAL/bin/Debug/net7.0/DAL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/DAL/bin/Debug/net7.0/BOL.dll
+/home/utkarsh/CDAC/DotNet/eStore/DAL/bin/Debug/net7.0/BOL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/DAL/obj/Debug/net7.0/DAL.csproj.AssemblyReference.cache
+/home/utkarsh/CDAC/DotNet/eStore/DAL/obj/Debug/net7.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/utkarsh/CDAC/DotNet/eStore/DAL/obj/Debug/net7.0/DAL.AssemblyInfoInputs.cache
+/home/utkarsh/CDAC/DotNet/eStore/DAL/obj/Debug/net7.0/DAL.AssemblyInfo.cs
+/home/utkarsh/CDAC/DotNet/eStore/DAL/obj/Debug/net7.0/DAL.csproj.CoreCompileInputs.cache
+/home/utkarsh/CDAC/DotNet/eStore/DAL/obj/Debug/net7.0/DAL.csproj.CopyComplete
+/home/utkarsh/CDAC/DotNet/eStore/DAL/obj/Debug/net7.0/DAL.dll
+/home/utkarsh/CDAC/DotNet/eStore/DAL/obj/Debug/net7.0/refint/DAL.dll
+/home/utkarsh/CDAC/DotNet/eStore/DAL/obj/Debug/net7.0/DAL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/DAL/obj/Debug/net7.0/ref/DAL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\bin\Debug\net7.0\DAL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\bin\Debug\net7.0\DAL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\bin\Debug\net7.0\BOL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\bin\Debug\net7.0\BOL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\obj\Debug\net7.0\DAL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\obj\Debug\net7.0\DAL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\bin\Debug\net7.0\BOL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\bin\Debug\net7.0\BOL.pdb
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\DAL\obj\Debug\net7.0\ref\DAL.dll

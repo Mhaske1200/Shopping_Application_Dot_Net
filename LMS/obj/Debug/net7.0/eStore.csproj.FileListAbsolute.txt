@@ -1,0 +1,177 @@
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/appsettings.Development.json
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/appsettings.json
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/eStore.staticwebassets.runtime.json
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/eStore.exe
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/eStore.deps.json
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/eStore.runtimeconfig.json
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/eStore.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/eStore.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.csproj.AssemblyReference.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.GeneratedMSBuildEditorConfig.editorconfig
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.AssemblyInfoInputs.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.AssemblyInfo.cs
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.csproj.CoreCompileInputs.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.MvcApplicationPartsAssemblyInfo.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.RazorAssemblyInfo.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.RazorAssemblyInfo.cs
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/staticwebassets/msbuild.eStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/staticwebassets/msbuild.build.eStore.props
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.eStore.props
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.eStore.props
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/staticwebassets.pack.json
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/staticwebassets.build.json
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/staticwebassets.development.json
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/scopedcss/bundle/eStore.styles.css
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/scopedcss/projectbundle/eStore.bundle.scp.css
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/refint/eStore.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.genruntimeconfig.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/ref/eStore.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/BLL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/BOL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/DAL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/SAL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/BOL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/SAL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/BLL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/bin/Debug/net7.0/DAL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/eStore/obj/Debug/net7.0/eStore.csproj.CopyComplete
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/appsettings.Development.json
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/appsettings.json
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/eStore.staticwebassets.runtime.json
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/eStore
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/eStore.deps.json
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/eStore.runtimeconfig.json
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/eStore.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/eStore.pdb
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/BLL.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/BOL.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/DAL.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/SAL.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/BOL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/SAL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/DAL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/BLL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.csproj.AssemblyReference.cache
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.AssemblyInfoInputs.cache
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.AssemblyInfo.cs
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.csproj.CoreCompileInputs.cache
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.MvcApplicationPartsAssemblyInfo.cache
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.RazorAssemblyInfo.cache
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.RazorAssemblyInfo.cs
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/staticwebassets/msbuild.eStore.Microsoft.AspNetCore.StaticWebAssets.props
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/staticwebassets/msbuild.build.eStore.props
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.eStore.props
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.eStore.props
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/staticwebassets.pack.json
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/staticwebassets.build.json
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/staticwebassets.development.json
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/scopedcss/bundle/eStore.styles.css
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/scopedcss/projectbundle/eStore.bundle.scp.css
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.csproj.CopyComplete
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/refint/eStore.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.pdb
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/eStore.genruntimeconfig.cache
+/home/utkarsh/CDAC/DotNet/eStore/eStore/obj/Debug/net7.0/ref/eStore.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/Google.Protobuf.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/MySql.Data.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/ZstdNet.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/comerr64.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/gssapi64.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/k5sprt64.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/krb5_64.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/krbcc64.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/utkarsh/CDAC/DotNet/eStore/eStore/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\appsettings.Development.json
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\appsettings.json
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\eStore.staticwebassets.runtime.json
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\eStore.exe
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\eStore.deps.json
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\eStore.runtimeconfig.json
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\eStore.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\eStore.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\Google.Protobuf.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\MySql.Data.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\ZstdNet.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\comerr64.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\gssapi64.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\k5sprt64.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\krb5_64.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\krbcc64.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\BLL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\BOL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\DAL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\SAL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\BOL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\SAL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\BLL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\bin\Debug\net7.0\DAL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.csproj.AssemblyReference.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.AssemblyInfoInputs.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.AssemblyInfo.cs
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.csproj.CoreCompileInputs.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.RazorAssemblyInfo.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.RazorAssemblyInfo.cs
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\staticwebassets\msbuild.eStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\staticwebassets\msbuild.build.eStore.props
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eStore.props
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eStore.props
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\staticwebassets.pack.json
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\staticwebassets.build.json
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\staticwebassets.development.json
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\scopedcss\bundle\eStore.styles.css
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\scopedcss\projectbundle\eStore.bundle.scp.css
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.csproj.CopyComplete
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\refint\eStore.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\eStore.genruntimeconfig.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\eStore\obj\Debug\net7.0\ref\eStore.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\LMS\obj\Debug\net7.0\eStore.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\LMS\obj\Debug\net7.0\refint\eStore.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\LMS\obj\Debug\net7.0\eStore.pdb
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\LMS\obj\Debug\net7.0\eStore.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\LMS\obj\Debug\net7.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\LMS\obj\Debug\net7.0\eStore.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\LMS\obj\Debug\net7.0\eStore.AssemblyInfo.cs
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\LMS\obj\Debug\net7.0\eStore.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\LMS\obj\Debug\net7.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\LMS\obj\Debug\net7.0\eStore.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\LMS\obj\Debug\net7.0\eStore.RazorAssemblyInfo.cs

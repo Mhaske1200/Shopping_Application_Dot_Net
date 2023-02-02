@@ -1,0 +1,68 @@
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/bin/Debug/net7.0/BLL.deps.json
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/bin/Debug/net7.0/BLL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/bin/Debug/net7.0/BLL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/bin/Debug/net7.0/BOL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/bin/Debug/net7.0/DAL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/bin/Debug/net7.0/BOL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/bin/Debug/net7.0/DAL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/obj/Debug/net7.0/BLL.csproj.AssemblyReference.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/obj/Debug/net7.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/obj/Debug/net7.0/BLL.AssemblyInfoInputs.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/obj/Debug/net7.0/BLL.AssemblyInfo.cs
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/obj/Debug/net7.0/BLL.csproj.CoreCompileInputs.cache
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/obj/Debug/net7.0/BLL.csproj.CopyComplete
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/obj/Debug/net7.0/BLL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/obj/Debug/net7.0/refint/BLL.dll
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/obj/Debug/net7.0/BLL.pdb
+D:/0106_0036/DotNet/DotNet_Core/OnlineSolution/BLL/obj/Debug/net7.0/ref/BLL.dll
+/home/utkarsh/CDAC/DotNet/eStore/BLL/bin/Debug/net7.0/BLL.deps.json
+/home/utkarsh/CDAC/DotNet/eStore/BLL/bin/Debug/net7.0/BLL.dll
+/home/utkarsh/CDAC/DotNet/eStore/BLL/bin/Debug/net7.0/BLL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/BLL/bin/Debug/net7.0/BOL.dll
+/home/utkarsh/CDAC/DotNet/eStore/BLL/bin/Debug/net7.0/DAL.dll
+/home/utkarsh/CDAC/DotNet/eStore/BLL/bin/Debug/net7.0/BOL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/BLL/bin/Debug/net7.0/DAL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/BLL/obj/Debug/net7.0/BLL.csproj.AssemblyReference.cache
+/home/utkarsh/CDAC/DotNet/eStore/BLL/obj/Debug/net7.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+/home/utkarsh/CDAC/DotNet/eStore/BLL/obj/Debug/net7.0/BLL.AssemblyInfoInputs.cache
+/home/utkarsh/CDAC/DotNet/eStore/BLL/obj/Debug/net7.0/BLL.AssemblyInfo.cs
+/home/utkarsh/CDAC/DotNet/eStore/BLL/obj/Debug/net7.0/BLL.csproj.CoreCompileInputs.cache
+/home/utkarsh/CDAC/DotNet/eStore/BLL/obj/Debug/net7.0/BLL.csproj.CopyComplete
+/home/utkarsh/CDAC/DotNet/eStore/BLL/obj/Debug/net7.0/BLL.dll
+/home/utkarsh/CDAC/DotNet/eStore/BLL/obj/Debug/net7.0/refint/BLL.dll
+/home/utkarsh/CDAC/DotNet/eStore/BLL/obj/Debug/net7.0/BLL.pdb
+/home/utkarsh/CDAC/DotNet/eStore/BLL/obj/Debug/net7.0/ref/BLL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\bin\Debug\net7.0\BLL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\bin\Debug\net7.0\BLL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\bin\Debug\net7.0\BOL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\bin\Debug\net7.0\DAL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\bin\Debug\net7.0\BOL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\bin\Debug\net7.0\DAL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\obj\Debug\net7.0\BLL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\obj\Debug\net7.0\BLL.pdb
+D:\SHUBHAM&VISHAL PGDAC_SEPT_2022\Dot_Net\eStore\BLL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\bin\Debug\net7.0\BOL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\bin\Debug\net7.0\BOL.pdb
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\admin\Desktop\Shubham_220943020052\EXAM2.0\BLL\obj\Debug\net7.0\ref\BLL.dll

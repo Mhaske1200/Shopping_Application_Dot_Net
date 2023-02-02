@@ -1,0 +1,18 @@
+@using BOL;
+<div class="card" style="width: 25rem;">
+  
+  <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+  <div class="card-body ">
+      @{
+        Product p= ViewData["prod"] as Product;
+        <h5 class="card-title">Product title:  @p.Title</h5>
+        <h5 class="card-subtitle mb-2 text-muted"><ins>Product Id</ins>: @p.ProductId</h5>
+        
+        <h5 class="card-subtitle mb-2 text-muted"><ins>Product Desc</ins>: @p.Description</h5>
+        <h5 class="card-subtitle mb-2 text-muted"><ins>Product unit price</ins>: @p.UnitPrice</h5>
+        <h5 class="card-subtitle mb-2 text-muted"><ins>StockAvailable</ins>: @p.StockAvailable</h5>
+        <h5 class="card-subtitle mb-2 text-muted"><ins>Category</ins>: @p.Category</h5>
+      }
+    <a href="#" class="btn btn-primary">Add to cart</a>
+  </div>
+</div>
